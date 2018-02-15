@@ -1,0 +1,21 @@
+img {
+  width: 300px;
+  }/* add your CSS here */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+span {
+  font-weight: bold;
+}
+.bottom {
+  border: 1px solid;
+}
+.padding {
+  padding: 1em;
+}
+body {
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.5);
+  width: 360px;
+}
